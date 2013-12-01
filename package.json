@@ -1,0 +1,7 @@
+{
+  "name": "requirejs-handlebars-i18n-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "requirejs-handlebars": "~0.1.1"
+  }
+}
